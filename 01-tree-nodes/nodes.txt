@@ -1,3 +1,4 @@
+# valid data file
 cat : dog
 cat : fish
 dog : one

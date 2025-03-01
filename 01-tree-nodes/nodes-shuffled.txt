@@ -1,9 +1,10 @@
+# reordered but still valid
 fish : red
+dog : one
+cat : dog
 boat : steam
 cat : fish
 dog : two
 red : yellow
 fish : boat
-dog : one
-cat : dog
 
