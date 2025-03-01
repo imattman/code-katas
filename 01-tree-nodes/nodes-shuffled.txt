@@ -1,0 +1,9 @@
+fish : red
+boat : steam
+cat : fish
+dog : two
+red : yellow
+fish : boat
+dog : one
+cat : dog
+
