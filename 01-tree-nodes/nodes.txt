@@ -3,8 +3,8 @@ cat : dog
 cat : fish
 dog : one
 dog : two
-red : yellow
 fish : red
 fish : boat
+red : yellow
 boat : steam
 

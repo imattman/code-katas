@@ -24,9 +24,9 @@ cat : dog
 cat : fish
 dog : one
 dog : two
-red : yellow
 fish : red
 fish : boat
+red : yellow
 boat : steam
 ```
 
@@ -38,19 +38,19 @@ The tree modeled:
     dog   fish
    / \     / \
  one two  red boat
-               /
-             steam
+          /    /
+      yellow steam
 ```
 
 Expected output:
 
-(note you can ignore indentation spacing of child rows)
+(you can ignore indentation spacing of child rows)
 
 ```
 cat
 dog fish
 one two red boat
-steam
+yellow steam
 ```
 
 
